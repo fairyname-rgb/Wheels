@@ -1,7 +1,7 @@
 .head_section{
     max-width: 1920px;
     height: 750px;
-    background:url(/images/background-header.png);
+    background:url(./images/background-header.png);
     background-repeat:no-repeat;
     display: grid;
     background-size: cover;
@@ -59,7 +59,7 @@ h2{
        
 }
 .static_sec{
-background-image: url(/images/background-color.png);
+background-image: url(./images/background-color.png);
 background-size: cover;
 background-repeat: no-repeat
 }
